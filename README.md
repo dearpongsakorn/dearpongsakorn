@@ -104,7 +104,6 @@
   <img src="skills/vercel_dark.svg" width="50" height="50">
 </picture>
 </a>&nbsp;&nbsp;
-
 <a href="https://railway.com/" target="_blank" rel="noreferrer">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="skills/railway_dark.svg">
@@ -112,7 +111,6 @@
   <img src="skills/railway_dark.svg" width="50" height="50">
 </picture>
 </a>&nbsp;&nbsp;
-
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="skills/cloudflare.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer"><img src="skills/hostinger.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 
