@@ -27,6 +27,7 @@
 <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="skills/reactrouter.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="skills/tailwindcss.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="skills/bootstrap.svg" width="50" height="50" /></a>&nbsp;&nbsp;
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="skills/materialui.svg" width="50" height="50" /></a>&nbsp;&nbsp;
 
 ### Back-End
 
